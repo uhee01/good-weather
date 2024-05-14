@@ -1,6 +1,5 @@
 # 🌤️ Weather App 🌧️
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![BootstrapVue](https://img.shields.io/badge/BootstrapVue-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -26,8 +25,8 @@
 
 1. **레포지토리 클론**
     ```bash
-    git clone https://github.com/username/weather-app.git
-    cd weather-app
+    git clone https://github.com/uhee01/good-weather.git
+    cd good-weather
     ```
 
 2. **의존성 설치**
@@ -98,7 +97,4 @@
 
 4. **반응형 디자인**
     - 다양한 화면 크기에서 애플리케이션이 잘 동작하도록 반응형 디자인을 구현하는 데 어려움이 있었습니다. 이를 해결하기 위해 Bootstrap의 그리드 시스템을 적극 활용하고, CSS 미디어 쿼리를 통해 다양한 화면 크기에서의 레이아웃을 조정했습니다.
-
-## 📜 라이선스
-이 프로젝트는 MIT 라이선스로 배포됩니다. 자세한 내용은 [LICENSE](LICENSE) 파일을 참조하세요.
 
