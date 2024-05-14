@@ -25,10 +25,10 @@ OpenWeatherMap API를 통해 특정 도시의 실시간 날씨 정보를 제공�
 ## 📸 스크린샷
 
 ### 🌐 메인 화면
-![Main Screen](./hello-bingo-new/public/images/git-main.png)
+![Main Screen](./public/images/git-main.png)
 
 ### 🌦️ 상세 날씨 정보 모달
-![Weather Modal](./hello-bingo-new/public/images/git-modal.png)
+![Weather Modal](./public/images/git-modal.png)
 
 ## 🛠️ 개발 과정
 
