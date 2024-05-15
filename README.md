@@ -4,6 +4,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![BootstrapVue](https://img.shields.io/badge/BootstrapVue-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+<br>
+
 ## 🌟 프로젝트 개요
 
 ### 🎯 목표
@@ -15,12 +17,16 @@ OpenWeatherMap API를 통해 특정 도시의 실시간 날씨 정보를 제공�
 - **백엔드**: OpenWeatherMap API
 - **도구**: Axios (HTTP 요청), Vite (빌드 도구)
 
+<br>
+
 ## 🚀 주요 기능
 - **🔍 날씨 검색 기능**: 사용자가 입력한 도시의 날씨를 조회할 수 있습니다.
 - **🌡️ 날씨 데이터 표시**: 도시의 현재 날씨 정보를 카드 형식으로 표시합니다.
 - **🗂️ 상세 날씨 정보 모달**: 클릭 시 상세한 날씨 정보를 보여주는 모달 창이 뜹니다.
 - **📅 날씨 예보**: 선택한 도시의 3일간의 날씨 예보를 표시합니다.
 - **🏙️ 기본 도시 날씨 조회**: 기본으로 설정된 도시들의 날씨를 자동으로 불러옵니다.
+
+<br>
 
 ## 📸 스크린샷
 
@@ -29,6 +35,8 @@ OpenWeatherMap API를 통해 특정 도시의 실시간 날씨 정보를 제공�
 
 ### 🌦️ 상세 날씨 정보 모달
 ![Weather Modal](./public/images/git-modal.png)
+
+<br>
 
 ## 🛠️ 개발 과정
 
@@ -59,6 +67,8 @@ OpenWeatherMap API를 통해 특정 도시의 실시간 날씨 정보를 제공�
 
 7. **에러 처리 및 사용자 피드백**
     - API 호출 실패 시 에러 메시지 표시
+
+<br>
 
 ## ⚠️ 어려웠던 부분과 해결 과정
 
